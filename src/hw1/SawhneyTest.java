@@ -30,8 +30,8 @@ public Student ( String name, String id, String loginID, int year){
       return year;
     }
 public static void main(String arg){
-  Student s1 = new Student("8755", "student@SJSU.edu");
-  Student s2 = new Student("6534", "student@SJSU.edu");                       
+  Student s1 = new Student("1234", "student@SJSU.edu");
+  Student s2 = new Student("5678", "student@SJSU.edu");                       
 }
     
   }
