@@ -1,0 +1,2 @@
+q3) What is the minimum and maximum number of catch statements which we can have for a try block?
+q4) How many finally blocks can be there for one try block?
